@@ -1,4 +1,5 @@
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mf0bYtyL3Qc?si=XKI2YsCmdkSZB1xY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[![30분만에 기본 명령어로 알아보는 Git 실습](https://img.youtube.com/vi/mf0bYtyL3Qc/0.jpg)](https://www.youtube.com/watch?v=mf0bYtyL3Qc)
 
 # 왜 버전 관리 시스템을 쓰나요?
 
